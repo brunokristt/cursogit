@@ -10,6 +10,7 @@ namespace Teste
             Console.WriteLine("Olá mundo");
             Console.WriteLine("sw");
             Console.WriteLine("hello");
+            Console.WriteLine("aCRESCENTADA"); ;
         }
     }
 }
